@@ -139,7 +139,7 @@ public class TheServant extends CustomPlayer {
 		} else if (Settings.language == GameLanguage.ZHT) {
 			char_name = "凜光侍從";
 		} else {
-			char_name = "The Servant";
+			char_name = "서번트";
 		}
 		return char_name;
 	}
