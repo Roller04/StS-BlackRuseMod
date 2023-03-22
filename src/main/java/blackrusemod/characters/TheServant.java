@@ -174,7 +174,7 @@ public class TheServant extends CustomPlayer {
 		} else if (Settings.language == GameLanguage.ZHT) {
 			title = "凜光侍從";
 		} else {
-			title = "The Servant";
+			title = "서번트";
 		}
 		return title;
 	}
