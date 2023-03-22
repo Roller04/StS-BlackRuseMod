@@ -98,7 +98,7 @@ public class TheServant extends CustomPlayer {
 			return new CharSelectInfo("凜光侍從", "惡魔們的侍從。擅長殺戮與家務。 NL 隨身攜帶著一千零一把刀刃。",
 				65, 65, 0, 99, 5, this, getStartingRelics(), getStartingDeck(), false);
 		} else {
-			return new CharSelectInfo("The Servant", "A servant of demons. Perfected at killing and housekeeping. NL Holds a thousand and one blades.",
+			return new CharSelectInfo("서번트", "악마의 하인입니다. 집안일과 살인에 능하죠. NL는 수천 개의 칼날을 가지고 다닙니다.",
 				65, 65, 0, 99, 5, this, getStartingRelics(), getStartingDeck(), false);
 		}
 	}
